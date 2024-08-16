@@ -1,0 +1,42 @@
+.h2{
+    color: red;
+}
+#li1{
+    color: blue;
+}
+.img1{
+    background-color: brown;
+    border-radius: 20px;
+}
+#h3{
+    background-color: black;
+    color: aliceblue;
+}
+.div1{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    
+
+}
+
+i{
+    padding: 0 10px 0 0;
+   
+}
+ul{
+    list-style: none;
+}
+ol{
+    list-style: none;
+}
+.div2{
+    width: fit-content;
+    background-color: black;
+    margin: 0 auto;
+    color: antiquewhite;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
